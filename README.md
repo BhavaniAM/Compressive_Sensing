@@ -10,6 +10,5 @@ A - transformation
 then minimize $||y - Cs||^2$ where we know that y is the incomplete image obtained by applying a transformation C on the sparse representation s.
 
 The solution to the least squares problem is given by 
-s = $(C^T*C)^{-1}$*$C^T$*y
 
 s = $\left( C^{T}C\right) ^{-1}C^{T}y$
