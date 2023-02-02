@@ -11,3 +11,5 @@ then minimize $||y - Cs||^2$ where we know that y is the incomplete image obtain
 
 The solution to the least squares problem is given by 
 s = $(C^T*C)^{-1}$*$C^T$*y
+
+s = \left( C^{T}C\right) ^{-1}C^{T}y
